@@ -1,6 +1,5 @@
 // Vercel Serverless Function for Kaigo Sensei
 // Claude API を安全に呼び出します（APIキーはVercel環境変数）
-
 export const config = {
   runtime: 'nodejs18.x'
 };
